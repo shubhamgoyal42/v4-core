@@ -19,6 +19,9 @@
   "files": [
     "contracts/interfaces",
     "contracts/libraries",
+    "contracts/types",
+    "contracts/test",
+    "contracts/*.sol",
     "artifacts/contracts/PoolManager.sol/PoolManager.json",
     "artifacts/contracts/interfaces/**/*.json",
     "!artifacts/contracts/interfaces/**/*.dbg.json"
